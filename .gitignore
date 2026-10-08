@@ -1,0 +1,3 @@
+*.db
+data/
+freight_cost_prediction/data/
