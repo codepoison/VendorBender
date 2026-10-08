@@ -135,7 +135,7 @@ if avg_receiving_delay > 30
 ## Installation
 
 ```bash
-git clone https://github.com/OfficialTanishGupta/Vendor-Invoice-Intelligence-System.git
+git clone https://github.com/codepoison/Vendor-Invoice-Intelligence-System.git
 cd Vendor-Invoice-Intelligence-System
 pip install -r requirements.txt
 ```
